@@ -6,9 +6,11 @@ export xls from planuj smeny by:
 
 2.) convert to google calendar readable csv
 
+
 <code>
-import_planujsmeny.py <<filename>>
+import_planujsmeny.py <filename>
 </code>
+
 
 3.) Google calendar settings Import/Export, Import
 
