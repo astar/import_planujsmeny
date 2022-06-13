@@ -8,7 +8,7 @@ export xls from planuj smeny by:
 
 
 <code>
-import_planujsmeny.py <filename>
+import_planujsmeny.py filename
 </code>
 
 
